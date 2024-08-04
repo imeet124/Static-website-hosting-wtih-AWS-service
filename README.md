@@ -5,6 +5,9 @@ This project demonstrates static website hosting using Amazon Web Services (AWS)
 Key Features:
 
 Amazon S3: Used for storing and serving static website files.
+
 Static Website Hosting: Enabled via S3 to handle HTTP requests directly.
+
 Scalability: Automatically scales to handle traffic spikes without additional configuration.
+
 Cost-Effective: Pay only for the storage and bandwidth you use.
